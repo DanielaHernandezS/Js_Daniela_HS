@@ -1,0 +1,54 @@
+.fondoImagen{
+    width: 100%;
+    height: 100%;
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .boton{
+    width: 186px;
+    height: 83px;
+    background-color: rgb(195, 255, 235);
+    font-size: 20px;
+    border: none;
+    border-radius: 5%;
+  }
+  .rect{
+    width: 688px;
+    height: 600px;
+    background-color: rgb(250, 234, 235);
+    font-size: 20px;
+    border: none;
+    border-radius: 5%;
+  }
+.input{
+    width: 230px;
+    height: 32px;
+    border-radius: 5%;
+    border: none;
+    font-size: 15px;
+}
+.pokemon{
+    width: 400px;
+    height: 400px;
+}
+.texto{
+    width: 500px;
+    height: 500px;
+    font-size: 20px;
+}
+.nombre{
+    font-size: 20px;
+}
+.tipo{
+    font-size: 20px;
+}
+.estadisticas{
+    font-size: 20px;
+}
+.movimientos{
+    font-size: 20px;
+}
